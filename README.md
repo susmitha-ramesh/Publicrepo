@@ -1,2 +1,1 @@
-# Publicrepo
-this for sample purpose
+this is main in public
